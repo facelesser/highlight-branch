@@ -2,6 +2,7 @@
   "name": "highlight-branch",
   "displayName": "highlight-branch",
   "description": "highlight your git branch.",
+  "publisher":"faceless15er0256",
   "repository": {
     "url": "*"
   },
